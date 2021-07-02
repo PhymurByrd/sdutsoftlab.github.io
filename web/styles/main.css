@@ -11,6 +11,15 @@ header {
   background-size: cover;
 }
 
+contactus {
+  background: url("../images/contactus.jpg") no-repeat center center;
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  background-size: cover;
+}
+
+
 .navbar-dark .navbar-nav .nav-link {
   text-align: center;
   color: rgba(255, 255, 255, 0.75);
